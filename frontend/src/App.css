@@ -1,0 +1,30 @@
+.main-content {
+  margin: 4rem 2.5rem;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  text-align: justify;
+}
+
+button {
+  color: white;
+  font-weight: bolder;
+  font-size: 0.875rem;
+  line-height: 1.75;
+  text-transform: uppercase;
+  cursor: pointer;
+  text-align: justify;
+  letter-spacing: 0.01071em;
+  background-color: #e03b5d;
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2),
+    0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 3px 1px -2px rgba(0, 0, 0, 0.12);
+  padding: 6px 16px;
+  font-family: Montserrat, sans-serif;
+  border-radius: 4px;
+  outline: none;
+  border: 0;
+  margin: 5px;
+  text-decoration: none;
+}
